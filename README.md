@@ -34,6 +34,10 @@
 
 Explore the features of the Student Management System in action! Watch the embedded video below for a walkthrough.
 
-[![IMAGE ALT TEXT HERE](https://github.com/shaf-m/StudentManagementSystem/blob/main/Demo/Thumbnail.png)](https://youtu.be/XvXfWPGiU-U)
+<p align="center">
+  <a href="https://youtu.be/XvXfWPGiU-U" target="_blank">
+    <img width="600" src=https://github.com/shaf-m/StudentManagementSystem/blob/main/Demo/Thumbnail.png alt="Click Here">
+  </a>
+</p>
 
 Thanks for exploring this project!
