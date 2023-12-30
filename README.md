@@ -16,7 +16,7 @@
 ![UI Preview 4](https://github.com/shaf-m/StudentManagementSystem/blob/main/Demo/delConfirmUI.png)  
 *Delete Student Confirmation Pop-up*
 
-![UI Preview 1](https://github.com/shaf-m/StudentManagementSystem/blob/main/Demo/Project%20Flowchart.png)  
+![UI Preview 1](https://github.com/shaf-m/StudentManagementSystem/blob/main/Demo/ProjectFlowchart.png)  
 *SpringBoot MVC Project Structure*
 
 
@@ -35,7 +35,7 @@
 
 ## Demo
 
-Explore the features of the Student Management System in action! Watch the embedded video below for a walkthrough.
+Explore the features of the Student Management System in action! Click the thumbnail below for the walkthrough video.
 
 <p align="center">
   <a href="https://youtu.be/XvXfWPGiU-U" target="_blank">
