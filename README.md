@@ -8,7 +8,7 @@
 *Student Dashboard Overview*
 
 ![UI Preview 2](https://github.com/shaf-m/StudentManagementSystem/blob/main/Demo/updateUI.png)  
-*Caption: Update Student*
+*Update Student Information*
 
 ![UI Preview 3](https://github.com/shaf-m/StudentManagementSystem/blob/main/Demo/database.png)  
 *MySQL Database View*
@@ -34,6 +34,6 @@
 
 Explore the features of the Student Management System in action! Watch the embedded video below for a walkthrough.
 
-![Demo Video](https://github.com/your-username/YourRepositoryName/raw/main/path/to/demo/video.mp4)
+[![IMAGE ALT TEXT HERE](https://github.com/shaf-m/StudentManagementSystem/blob/main/Demo/Thumbnail.png)](https://youtu.be/XvXfWPGiU-U)
 
-Thanks for exploring this project! If you have any questions or suggestions, feel free to reach out.
+Thanks for exploring this project!
