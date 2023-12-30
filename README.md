@@ -16,6 +16,9 @@
 ![UI Preview 4](https://github.com/shaf-m/StudentManagementSystem/blob/main/Demo/delConfirmUI.png)  
 *Delete Student Confirmation Pop-up*
 
+![UI Preview 1](https://github.com/shaf-m/StudentManagementSystem/blob/main/Demo/Project%20Flowchart.png)  
+*SpringBoot MVC Project Structure*
+
 
 ## Features
 
