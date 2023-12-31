@@ -43,4 +43,6 @@ Explore the features of the Student Management System in action! Click the thumb
   </a>
 </p>
 
+*(For an optimal viewing experience, please select 2160p or 1440p as the video quality.)*
+
 Thanks for exploring this project!
